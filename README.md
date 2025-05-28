@@ -23,4 +23,4 @@ Inspirado por:
 
 ## Licencia
 
-FlipFlop se distribuye bajo los términos de las licencias **MIT** y **Apache 2.0**. Consulta los archivos `LICENSE-APACHE`, `LICENSE-MIT` y `COPYRIGHT` para más detalles. :contentReference[oaicite:0]{index=0}
+FlipFlop se distribuye bajo los términos de la licencias **MIT**. Consulta el archivo `LICENSE` para más detalles.
