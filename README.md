@@ -1,5 +1,7 @@
 # Biestables/Flip-flops
 
+[![DOI](https://zenodo.org/badge/991965324.svg)](https://doi.org/10.5281/zenodo.15535409)
+
 Un simulador de lógica digital basado en reglas sencillas.
 
 ## Cómo funciona
